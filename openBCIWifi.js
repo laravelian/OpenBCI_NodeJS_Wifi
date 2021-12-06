@@ -427,7 +427,7 @@ Wifi.prototype.getLocalIPAddress = function () {
       return ip.address();
     }
   } else {
-    return ip.address();
+    return ip.address('en0');
   }
 };
 

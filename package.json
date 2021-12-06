@@ -23,7 +23,7 @@
     "ip": "^1.1.5",
     "lodash": "^4.17.11",
     "node-ssdp": "^3.2.1",
-    "@openbci/utilities": "^1.0.0",
+    "@openbci/utilities": "https://github.com/laravelian/OpenBCI_JavaScript_Utilities",
     "os": "^0.1.1",
     "safe-buffer": "^5.1.1",
     "xstream": "^11.10.0"
