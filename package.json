@@ -22,7 +22,7 @@
     "fs": "0.0.1-security",
     "ip": "^1.1.5",
     "lodash": "^4.17.11",
-    "node-ssdp": "^3.2.1",
+    "node-ssdp": "^4.0.1",
     "@openbci/utilities": "https://github.com/laravelian/OpenBCI_JavaScript_Utilities",
     "os": "^0.1.1",
     "safe-buffer": "^5.1.1",
